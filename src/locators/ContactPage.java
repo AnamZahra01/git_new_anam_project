@@ -1,4 +1,4 @@
-package pages:
+package locators;
 
 public class ContactPage {
   
