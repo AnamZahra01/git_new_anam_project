@@ -1,6 +1,6 @@
 package pages:
 
-public class ContactPAge {
+public class ContactPage {
   
   //html for email
   
